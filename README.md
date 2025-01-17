@@ -1,4 +1,4 @@
-- 👋 Hola, Soy @DesiDP
+- 👋 Hola, Soy Desi!!
 - 👀 Estoy interesada en aprender y compartir conocimiento
 - 🌱 Actualmente estoy estudiando Desarrollo de Aplicaciones Web
 - 📫 Puedes mandarme un mensaje privado!
